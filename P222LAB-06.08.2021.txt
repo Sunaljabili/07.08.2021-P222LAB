@@ -1,0 +1,26 @@
+Task 1
+Array verilir, Arrayin  en kicik elementi ile onun indeksini tapan 
+method yazmali.
+
+Task 2
+Arrayde verilen ededlerin menfi musbet ve sifir olanlarinin 
+sayini qaytaran alqoritm yazmaq  method kimi
+
+Task3 
+Verilen ededin 2nin quvveti olub olmadigini yoxlayan method 
+yazmalisiniz. 2nin quvvetidirse:true deilse false yazsin
+
+Task 4
+Arrayde verilen ededlerin cemini tapan alqoritm yazmaq
+
+
+
+
+
+
+
+
+
+
+
+ 
